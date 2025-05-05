@@ -10,8 +10,11 @@ Este projeto tem como objetivo analisar os dados de vendas de produtos, identifi
 
 ## 📊 Visualizações
 
-- Receita por Produto (`grafico_receita_produto.png`)
-- Receita por Mês (`grafico_receita_mensal.png`)
+### Receita por Produto
+
+![Receita por Produto](../../assets/grafico_receita_produto.png)
+![Receita por Mês](../../assets/grafico_receita_mensal.png)
+
 
 ## 🚀 Como executar
 
@@ -19,5 +22,4 @@ Este projeto tem como objetivo analisar os dados de vendas de produtos, identifi
 2. Abrir a pasta no VS Code
 3. Executar `analise.py` com Python instalado
 
-```bash
-python academicos/analise-vendas/analise.py
+
