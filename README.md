@@ -11,12 +11,4 @@ Repositório com meus projetos de Ciência de Dados e Machine Learning, organiza
 - [Projetos Pessoais](pessoais/)  
   Descrição geral…
 
-## Como usar
-
-```bash
-git clone https://github.com/SeuUsuario/portfolioHUB.git
-cd portfolioHUB
-# Entre na pasta do projeto que quiser e siga o README específico
-
----
 📫 Conecte comigo: [https://linkedin.com/in/SeuPerfil](https://www.linkedin.com/in/tiago-heitzmann-b55a77212/)
