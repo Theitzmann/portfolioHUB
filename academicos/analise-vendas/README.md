@@ -22,4 +22,5 @@ Este projeto tem como objetivo analisar os dados de vendas de produtos, identifi
 2. Abrir a pasta no VS Code
 3. Executar `analise.py` com Python instalado
 
-
+```bash
+python academicos/analise-vendas/analise.py
